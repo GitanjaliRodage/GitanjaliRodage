@@ -55,12 +55,11 @@ Responsive Admin Dashboard using React.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Profile Summary
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GitanjaliRodage&theme=algolia&row=1&column=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitanjaliRodage&theme=github_dark"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
