@@ -83,17 +83,13 @@ Responsive Admin Dashboard using React.
 </p>
 
 ---
-
 ## 🐍 Contribution Snake
 
-> Requires GitHub Actions setup.
-
-```html
-<img src="https://raw.githubusercontent.com/GitanjaliRodage/GitanjaliRodage/output/github-contribution-grid-snake.svg"/>
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GitanjaliRodage/GitanjaliRodage/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
-
 ## 🤝 Connect With Me
 
 <p>
