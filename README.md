@@ -1,6 +1,6 @@
 # Hi 👋 I'm Gitanjali Rodage
 
-### Java Full Stack Developer • AI/ML Enthusiast • B.Tech AI & Data Science
+###AI Engineer | Python | LLMs | RAG | LangChain | B.Tech AI & DS
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+PostgreSQL;Artificial+Intelligence+%26+Machine+Learning;Always+Learning+%F0%9F%9A%80"/>
